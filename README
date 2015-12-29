@@ -19,3 +19,12 @@ Sharp GP2Y1010AU0F optical dust sensor (SparkFun ID: COM-09689)
 220µF Electrolytic Capacitor
 Small Breadboard or Veroboard
 Hook-up wires
+
+Start by reading the hook-up instructions: Sharp_GP2Y1010AU0F_Optical_Dust_Sensor_Hook-Up_Guide.pdf
+https://github.com/PaulZC/GP2Y1010AU0F_Dust_Sensor/blob/master/Sharp_GP2Y1010AU0F_Optical_Dust_Sensor_Hook-Up_Guide.pdf
+
+Then download the Dust_Sensor sketch:
+https://github.com/PaulZC/GP2Y1010AU0F_Dust_Sensor/tree/master/Dust_Sensor
+
+Don't forget to install the Timer1 library:
+https://code.google.com/p/arduino-timerone/downloads/list
