@@ -12,7 +12,7 @@ You will need:
 - Arduino Uno or equivalent (e.g. the SparkFun RedBoard – product ID: DEV-12757)
 - Sharp GP2Y1010AU0F optical dust sensor (SparkFun ID: COM-09689)
 - 6-Way JST ZHR-6 connector housing (SparkFun ID: PRT-09690)
-- >= 6 JST SZH-002T-P0.5 crimp pins (SparkFun ID: PRT-09728)
+- 6x JST SZH-002T-P0.5 crimp pins (SparkFun ID: PRT-09728)
 - 150R Resistor
 - 220µF Electrolytic Capacitor
 - Small Breadboard or Veroboard
