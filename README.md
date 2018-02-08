@@ -15,7 +15,7 @@ You will need:
 - 6x JST SZH-002T-P0.5 crimp pins (SparkFun ID: PRT-09728)
 - 150R Resistor
 - 220µF Electrolytic Capacitor
-- (Hobby Components offer the sensor, pre-crimped connector, resistor and capacitor as a (complete kit)[http://hobbycomponents.com/sensors/818-gp2y1010au0f-compact-optical-dustsmoke-sensor])
+- (Hobby Components offer the sensor, pre-crimped connector, resistor and capacitor as a [complete kit](http://hobbycomponents.com/sensors/818-gp2y1010au0f-compact-optical-dustsmoke-sensor))
 - Small Breadboard or Veroboard
 - Hook-up wires
 
